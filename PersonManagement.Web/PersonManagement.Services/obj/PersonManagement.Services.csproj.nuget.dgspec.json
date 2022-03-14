@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Services\\PersonManagement.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data.EF\\PersonManagement.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data.EF\\PersonManagement.Data.EF.csproj",
+        "projectName": "PersonManagement.Data.EF",
+        "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data.EF\\PersonManagement.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data\\PersonManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data\\PersonManagement.Data.csproj"
+              },
+              "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.PersistanceDB\\PersonManagement.PersistanceDB.csproj": {
+                "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.PersistanceDB\\PersonManagement.PersistanceDB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data\\PersonManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data\\PersonManagement.Data.csproj",
+        "projectName": "PersonManagement.Data",
+        "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data\\PersonManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\PersonManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\PersonManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\PersonManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\PersonManagement.Domain.csproj",
+        "projectName": "PersonManagement.Domain",
+        "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\PersonManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.PersistanceDB\\PersonManagement.PersistanceDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.PersistanceDB\\PersonManagement.PersistanceDB.csproj",
+        "projectName": "PersonManagement.PersistanceDB",
+        "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.PersistanceDB\\PersonManagement.PersistanceDB.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.PersistanceDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\PersonManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Domain\\PersonManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Services\\PersonManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Services\\PersonManagement.Services.csproj",
+        "projectName": "PersonManagement.Services",
+        "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Services\\PersonManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data.EF\\PersonManagement.Data.EF.csproj": {
+                "projectPath": "C:\\Users\\sabag\\OneDrive\\Desktop\\EFCore50Homework.Web\\PersonManagement.Web\\PersonManagement.Data.EF\\PersonManagement.Data.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

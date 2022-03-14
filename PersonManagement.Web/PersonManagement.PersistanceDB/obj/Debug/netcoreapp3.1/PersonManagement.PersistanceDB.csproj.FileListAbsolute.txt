@@ -1,0 +1,15 @@
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\bin\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.deps.json
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\bin\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.runtimeconfig.json
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\bin\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.runtimeconfig.dev.json
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\bin\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.dll
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\bin\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.pdb
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\bin\Debug\netcoreapp3.1\PersonManagement.Domain.dll
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\bin\Debug\netcoreapp3.1\PersonManagement.Domain.pdb
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.csproj.AssemblyReference.cache
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.AssemblyInfoInputs.cache
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.AssemblyInfo.cs
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.csproj.CoreCompileInputs.cache
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.csproj.CopyComplete
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.dll
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.pdb
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.PersistanceDB\obj\Debug\netcoreapp3.1\PersonManagement.PersistanceDB.genruntimeconfig.cache

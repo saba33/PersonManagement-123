@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "139be0b7-ed92-42d3-8ff0-eecc873e5414": {
+      "ProjectGuid": "139be0b7-ed92-42d3-8ff0-eecc873e5414",
+      "DisplayName": "PersonManagement.Web",
+      "ColorIndex": 0
+    },
+    "030055b6-35b5-4cb9-a842-69b5546952d8": {
+      "ProjectGuid": "030055b6-35b5-4cb9-a842-69b5546952d8",
+      "DisplayName": "PersonManagement.Services",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "7a2ba76e-040f-4c45-98fe-6fe0cade3d80": {
+      "ProjectGuid": "7a2ba76e-040f-4c45-98fe-6fe0cade3d80",
+      "DisplayName": "PersonManagement.DataADO",
+      "ColorIndex": 2
+    },
+    "7862b3b2-3047-406c-af41-6dbcb526780b": {
+      "ProjectGuid": "7862b3b2-3047-406c-af41-6dbcb526780b",
+      "DisplayName": "PersonManagement.Domain",
+      "ColorIndex": 3
+    },
+    "e556a556-e382-48e6-b40d-beaa95895645": {
+      "ProjectGuid": "e556a556-e382-48e6-b40d-beaa95895645",
+      "DisplayName": "PersonManagement.Data",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

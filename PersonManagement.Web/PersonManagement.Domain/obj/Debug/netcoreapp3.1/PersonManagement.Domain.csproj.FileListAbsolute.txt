@@ -1,0 +1,9 @@
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\bin\Debug\netcoreapp3.1\PersonManagement.Domain.deps.json
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\bin\Debug\netcoreapp3.1\PersonManagement.Domain.dll
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\bin\Debug\netcoreapp3.1\PersonManagement.Domain.pdb
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\obj\Debug\netcoreapp3.1\PersonManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\obj\Debug\netcoreapp3.1\PersonManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\obj\Debug\netcoreapp3.1\PersonManagement.Domain.AssemblyInfo.cs
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\obj\Debug\netcoreapp3.1\PersonManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\obj\Debug\netcoreapp3.1\PersonManagement.Domain.dll
+C:\Users\sabag\OneDrive\Desktop\EFCore50Homework.Web\PersonManagement.Web\PersonManagement.Domain\obj\Debug\netcoreapp3.1\PersonManagement.Domain.pdb
